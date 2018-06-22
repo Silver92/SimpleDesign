@@ -83,7 +83,7 @@ public:
 	}
 
 	virtual void display() {
-		cout<<"Current conditions: " << temperature << "F degrees and" << humidity << "% humidity" << endl;
+		cout<<"Current conditions: " << temperature << "F degrees and " << humidity << "% humidity" << endl;
 	}
 
 
